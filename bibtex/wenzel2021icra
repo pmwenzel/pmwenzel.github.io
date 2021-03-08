@@ -1,0 +1,6 @@
+@inproceedings{wenzel2021icra,
+ author = {Patrick Wenzel and Torsten Schön and Laura Leal-Taixé and Daniel Cremers},
+ title = {Vision-Based Mobile Robotics Obstacle Avoidance With Deep Reinforcement Learning},
+ booktitle = {Proceedings of the {IEEE} International Conference on Robotics and Automation (ICRA)},
+ year = {2021}
+}
